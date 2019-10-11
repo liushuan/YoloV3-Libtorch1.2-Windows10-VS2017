@@ -17,3 +17,7 @@ libtorch/include/torch/csrc/utils/variadic.h(195): error C2951: 模板 声明只
 
 
 model and config file need download by youself.
+
+
+reference
+https://github.com/walktree/libtorch-yolov3
